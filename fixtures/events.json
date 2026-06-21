@@ -1,0 +1,98 @@
+[
+  {
+    "name": "FOMC Rate Decision - January 2024",
+    "date": "2024-01-31T19:00:00Z",
+    "raw_type": "federal_reserve",
+    "description": "Federal Reserve FOMC rate decision announcement",
+    "outcome_label": "hawkish",
+    "event_ref": "fomc_2024_01"
+  },
+  {
+    "name": "FOMC Rate Decision - March 2024",
+    "date": "2024-03-20T18:00:00Z",
+    "raw_type": "federal_reserve",
+    "description": "Federal Reserve FOMC rate decision and dot plot",
+    "outcome_label": "dovish",
+    "event_ref": "fomc_2024_03"
+  },
+  {
+    "name": "FOMC Rate Decision - June 2024",
+    "date": "2024-06-12T18:00:00Z",
+    "raw_type": "federal_reserve",
+    "description": "Federal Reserve FOMC rate decision",
+    "outcome_label": "dovish",
+    "event_ref": "fomc_2024_06"
+  },
+  {
+    "name": "CPI Release - February 2024",
+    "date": "2024-02-13T13:30:00Z",
+    "raw_type": "inflation",
+    "description": "US Consumer Price Index monthly release",
+    "outcome_label": "hot",
+    "event_ref": "cpi_2024_02"
+  },
+  {
+    "name": "CPI Release - April 2024",
+    "date": "2024-04-10T12:30:00Z",
+    "raw_type": "inflation",
+    "description": "US Consumer Price Index monthly release",
+    "outcome_label": "cold",
+    "event_ref": "cpi_2024_04"
+  },
+  {
+    "name": "CPI Release - July 2024",
+    "date": "2024-07-11T12:30:00Z",
+    "raw_type": "inflation",
+    "description": "US Consumer Price Index monthly release",
+    "outcome_label": "cold",
+    "event_ref": "cpi_2024_07"
+  },
+  {
+    "name": "Non-Farm Payrolls - March 2024",
+    "date": "2024-03-08T13:30:00Z",
+    "raw_type": "employment",
+    "description": "US Non-Farm Payrolls monthly jobs report",
+    "outcome_label": "strong",
+    "event_ref": "nfp_2024_03"
+  },
+  {
+    "name": "Non-Farm Payrolls - May 2024",
+    "date": "2024-05-03T12:30:00Z",
+    "raw_type": "employment",
+    "description": "US Non-Farm Payrolls monthly jobs report",
+    "outcome_label": "weak",
+    "event_ref": "nfp_2024_05"
+  },
+  {
+    "name": "Bitcoin Spot ETF Deadline",
+    "date": "2024-01-10T16:00:00Z",
+    "raw_type": "etf_deadline",
+    "description": "SEC final deadline for Bitcoin spot ETF approval decisions",
+    "outcome_label": "approved",
+    "event_ref": "btc_etf_2024_01"
+  },
+  {
+    "name": "Bitcoin Halving",
+    "date": "2024-04-20T00:00:00Z",
+    "raw_type": "halving",
+    "description": "Bitcoin block reward halving to 3.125 BTC",
+    "outcome_label": "completed",
+    "event_ref": "btc_halving_2024"
+  },
+  {
+    "name": "Ethereum Dencun Upgrade",
+    "date": "2024-03-13T13:55:00Z",
+    "raw_type": "network_upgrade",
+    "description": "Ethereum Dencun upgrade activation with EIP-4844 proto-danksharding",
+    "outcome_label": "successful",
+    "event_ref": "eth_dencun_2024"
+  },
+  {
+    "name": "Solana Token Unlock - March 2024",
+    "date": "2024-03-01T00:00:00Z",
+    "raw_type": "token_unlock",
+    "description": "Major SOL token unlock from early investors",
+    "outcome_label": "completed",
+    "event_ref": "sol_unlock_2024_03"
+  }
+]

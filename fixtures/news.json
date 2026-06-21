@@ -1,0 +1,74 @@
+[
+  {
+    "event_ref": "fomc_2024_01",
+    "title": "Fed Holds Rates Steady, Signals No Rush to Cut",
+    "date": "2024-01-31T20:00:00Z",
+    "summary": "The Federal Reserve kept interest rates unchanged at 5.25-5.50%, pushing back against market expectations of early rate cuts."
+  },
+  {
+    "event_ref": "fomc_2024_03",
+    "title": "Fed Maintains Dovish Pivot, Three Cuts Still Expected in 2024",
+    "date": "2024-03-20T19:00:00Z",
+    "summary": "The Fed held rates steady but the updated dot plot confirmed three rate cuts expected in 2024, boosting risk assets."
+  },
+  {
+    "event_ref": "fomc_2024_06",
+    "title": "Fed Signals Potential September Cut as Inflation Cools",
+    "date": "2024-06-12T19:00:00Z",
+    "summary": "FOMC kept rates at 5.25-5.50% but updated language suggests a September cut is likely if disinflation continues."
+  },
+  {
+    "event_ref": "cpi_2024_02",
+    "title": "January CPI Hotter Than Expected at 3.1% YoY",
+    "date": "2024-02-13T14:00:00Z",
+    "summary": "Consumer prices rose 3.1% year-over-year in January, above the 2.9% consensus, sending risk assets lower on rate cut delay fears."
+  },
+  {
+    "event_ref": "cpi_2024_04",
+    "title": "March CPI Cools to 3.5%, Core Declines",
+    "date": "2024-04-10T13:00:00Z",
+    "summary": "CPI came in slightly below expectations with core declining, reinforcing the disinflation narrative and boosting crypto markets."
+  },
+  {
+    "event_ref": "cpi_2024_07",
+    "title": "June CPI Falls to 3.0%, Lowest Since 2023",
+    "date": "2024-07-11T13:00:00Z",
+    "summary": "Consumer price index declined to 3.0% year-over-year, the lowest reading in over a year, strengthening the case for rate cuts."
+  },
+  {
+    "event_ref": "nfp_2024_03",
+    "title": "February Jobs Report Shows 275K Added, Unemployment Rises",
+    "date": "2024-03-08T14:00:00Z",
+    "summary": "Non-farm payrolls came in strong at 275K jobs added but unemployment ticked up to 3.9%, sending mixed signals to markets."
+  },
+  {
+    "event_ref": "nfp_2024_05",
+    "title": "April Jobs Miss: 175K vs 240K Expected",
+    "date": "2024-05-03T13:00:00Z",
+    "summary": "Non-farm payrolls significantly missed expectations with only 175K jobs added, boosting rate cut hopes and risk assets."
+  },
+  {
+    "event_ref": "btc_etf_2024_01",
+    "title": "SEC Approves 11 Bitcoin Spot ETFs in Historic Decision",
+    "date": "2024-01-10T17:00:00Z",
+    "summary": "The SEC approved all 11 pending Bitcoin spot ETF applications, marking a watershed moment for institutional crypto adoption."
+  },
+  {
+    "event_ref": "btc_halving_2024",
+    "title": "Bitcoin Halving Complete: Block Reward Now 3.125 BTC",
+    "date": "2024-04-20T00:10:00Z",
+    "summary": "The fourth Bitcoin halving occurred at block 840,000, reducing the block reward from 6.25 to 3.125 BTC."
+  },
+  {
+    "event_ref": "eth_dencun_2024",
+    "title": "Ethereum Dencun Upgrade Goes Live, L2 Fees Plummet",
+    "date": "2024-03-13T14:00:00Z",
+    "summary": "The Dencun upgrade successfully activated on Ethereum mainnet, with EIP-4844 blob transactions dramatically reducing Layer 2 fees."
+  },
+  {
+    "event_ref": "sol_unlock_2024_03",
+    "title": "Major Solana Token Unlock: 2.5M SOL Released to Market",
+    "date": "2024-03-01T01:00:00Z",
+    "summary": "A scheduled unlock released approximately 2.5 million SOL tokens from early investor vesting, creating sell-side pressure."
+  }
+]

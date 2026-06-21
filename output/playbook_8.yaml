@@ -1,0 +1,20 @@
+event:
+  name: Non-Farm Payrolls - May 2024
+  date: '2024-05-03T12:30:00Z'
+  category: EMPLOYMENT
+  impact: MEDIUM
+strategy:
+  direction: straddle
+  entry_timing: 2h before event
+  confirmation: Price moves in expected direction within 4h post-event
+  holding_period: 7d
+  stop_loss: 0.01
+  invalidation: Price moves against position by >1.0% before event, or stop-loss hit
+    before event fires
+historical:
+  sample_size: 2
+  median_1h: 0.0018
+  median_4h: 0.0028
+  median_24h: 0.0046
+  median_7d: 0.0292
+  hit_rate_direction: 1.0

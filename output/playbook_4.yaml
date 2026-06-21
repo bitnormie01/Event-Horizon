@@ -1,0 +1,20 @@
+event:
+  name: CPI Release - February 2024
+  date: '2024-02-13T13:30:00Z'
+  category: CPI
+  impact: HIGH
+strategy:
+  direction: bullish
+  entry_timing: 6h before event
+  confirmation: Price moves in expected direction within 4h post-event
+  holding_period: 7d
+  stop_loss: 0.01
+  invalidation: Price moves against position by >1.0% before event, or stop-loss hit
+    before event fires
+historical:
+  sample_size: 3
+  median_1h: 0.0099
+  median_4h: 0.0174
+  median_24h: 0.0213
+  median_7d: 0.0426
+  hit_rate_direction: 1.0

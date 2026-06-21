@@ -1,0 +1,20 @@
+event:
+  name: Solana Token Unlock - March 2024
+  date: '2024-03-01T00:00:00Z'
+  category: CRYPTO_SPECIFIC
+  impact: MEDIUM
+strategy:
+  direction: bearish
+  entry_timing: 2h before event
+  confirmation: Price moves in expected direction within 4h post-event
+  holding_period: 7d
+  stop_loss: 0.01
+  invalidation: Price moves against position by >1.0% before event, or stop-loss hit
+    before event fires
+historical:
+  sample_size: 1
+  median_1h: -0.024
+  median_4h: -0.04
+  median_24h: -0.056
+  median_7d: -0.08
+  hit_rate_direction: 1.0
